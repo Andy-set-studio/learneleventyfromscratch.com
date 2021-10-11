@@ -1,0 +1,16 @@
+{
+  "name": "cube.fyi",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "production": "vuepress build docs",
+    "start": "vuepress dev docs"
+  },
+  "devDependencies": {
+    "vuepress": "^1.8.2"
+  },
+  "dependencies": {
+    "prettier": "^2.4.1"
+  }
+}

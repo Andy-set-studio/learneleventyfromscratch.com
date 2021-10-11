@@ -1,10 +1,11 @@
 module.exports = {
+  evergreen: true,
   head: [
     [
       'script',
       {
         'src': 'https://cdn.usefathom.com/script.js',
-        'data-site': 'IAIRUTCT',
+        'data-site': 'WWXPUKOT',
         'defer': true
       },
       ''

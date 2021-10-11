@@ -1,10 +1,6 @@
 # Learn Eleventy From Scratch
 
-::: danger
-The content of this course was written in May 2020, so parts will be outdated. There’s no immediate plan to do a full update, but this course is now open source.
-
-Head over to the project and follow the contribution guide if you would like to help.
-:::
+<ContentWarning />
 
 In this [Eleventy](https://www.11ty.dev/) course, we go from a completely empty directory to a full-blown marketing site for a design agency, and along the way, **we dive really deep into Eleventy** _and_ **front-end development best practices**.
 

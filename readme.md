@@ -4,7 +4,7 @@ This course was originally authored by [Andy Bell](//twitter.com/piccalilli_) an
 
 > ⚠️This content is likely out of date
 > 
-> The content of this course was written in May 2020, so parts will be outdated. There’s no immediate plan to do a full update, but this course is now open source, so if you see an issue, please raise an issue.
+> The content of this course was written in May 2020, so parts will be outdated. As of 2024, a maintained fork of the course is available at [uncenter/learn-eleventy](https://github.com/uncenter/learn-eleventy). If that fork is also outdated, please review open Issues to check for recent activity.
 
 ## Contributing 
 

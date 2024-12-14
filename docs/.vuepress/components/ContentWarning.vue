@@ -4,17 +4,17 @@
     <p class="custom-block-title">This content is likely out of date</p>
     <p>
       The content of this course was written in May 2020, so parts will be outdated.
-      There’s no immediate plan to do a full update, but this course is now open source,
-      so if you see an issue,
-      <a href="https://github.com/andy-piccalilli/learneleventyfromscratch.com"
-        >please raise an issue</a
-      >.
+      As of 2024, a maintained fork of the course is available at
+      <a href="https://learn-eleventy.pages.dev/"
+        >learn-eleventy.pages.dev</a
+      > and new students are encouraged to use that version.
     </p>
     <p>
+      This version of the course is no longer maintained. If the linked fork is
+      also outdated, consider reviewing the open Issues on
       <a href="https://github.com/andy-piccalilli/learneleventyfromscratch.com"
-        >Head over to the project</a
-      >
-      and follow the contribution guide if you would like to help.
+        >the original project</a
+      > to check for recent activity.
     </p>
   </aside>
 </template>
